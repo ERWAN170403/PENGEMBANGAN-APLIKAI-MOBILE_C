@@ -19,4 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 3. ![Tampilan Home](https://github.com/user-attachments/assets/a87e96b8-2137-4b54-92b8-1444338889ca)
 4. ![Tampilan Akun_profile](https://github.com/user-attachments/assets/e0cee194-1768-401f-92d6-70c1087b1491)
 5. ![Lupa Pasoword](https://github.com/user-attachments/assets/6050dd05-1fe3-48eb-86bc-a1440ace51ab)
+6. ![Kelola akun](https://github.com/user-attachments/assets/947d9d7f-355b-4d40-9ba6-88cdbd15316b)
 
